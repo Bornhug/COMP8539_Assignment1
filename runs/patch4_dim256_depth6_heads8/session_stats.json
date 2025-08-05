@@ -1,0 +1,6 @@
+{
+  "total_runtime_min": 70.38,
+  "overall_peak_gpu_mem_MB": 1187.5,
+  "final_test_loss": 0.4857,
+  "final_test_acc": 85.55
+}
