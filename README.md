@@ -42,5 +42,5 @@ pip install -r requirements.txt
    This is the default setting (Also these hyperparameters gives best performance
 
 ```
-task1_1.py --patch_size 8 --dim 256 --depth 6 --heads 8 --epochs 100
+python task1_1.py --patch_size 8 --dim 256 --depth 6 --heads 8 --epochs 100
 ```
