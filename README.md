@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ### 3. Run the main experiment
 
 1. **Dataset**:
-   CIFAR-10
+   CIFAR-10 (Automatically downloaded and saved to runs/)
 2. **Training**:
    This is the default setting (Also these hyperparameters gives best performance
 
