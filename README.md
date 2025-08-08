@@ -39,7 +39,7 @@ pip install -r requirements.txt
 1. **Dataset**:
    CIFAR-10 (Automatically downloaded and saved to runs/)
 2. **Training**:
-   This is the default setting (Also these hyperparameters gives best performance
+   This is the default setting (Also these hyperparameters give best performance)
 
 ```
 python task1_1.py --patch_size 8 --dim 256 --depth 6 --heads 8 --epochs 100
