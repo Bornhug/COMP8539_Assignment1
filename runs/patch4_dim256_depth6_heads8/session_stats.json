@@ -1,6 +1,10 @@
 {
-  "total_runtime_min": 70.38,
-  "overall_peak_gpu_mem_MB": 1187.5,
-  "final_test_loss": 0.4857,
-  "final_test_acc": 85.55
+  "total_runtime_min": 50.27,
+  "overall_peak_gpu_mem_MB": 1300.1,
+  "final_test_loss": 0.512,
+  "final_test_acc": 84.9,
+  "final_outlier_w>150": 0.0,
+  "final_outlier_w_top2%": 0.02,
+  "final_outlier_no>150": 0.0,
+  "final_outlier_no_top2%": 0.02
 }
